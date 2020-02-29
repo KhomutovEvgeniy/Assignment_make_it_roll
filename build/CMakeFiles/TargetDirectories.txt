@@ -1,0 +1,8 @@
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/install/strip.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/install/local.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/install.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/list_install_components.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/assignment_make-it-roll.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/uninstall.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/edit_cache.dir
+/home/evgeny/repos/icub-main/assignment_make-it-roll/build/CMakeFiles/rebuild_cache.dir
